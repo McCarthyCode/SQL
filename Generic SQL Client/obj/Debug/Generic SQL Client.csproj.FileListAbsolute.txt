@@ -7,3 +7,5 @@ C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\obj\Debug\Gener
 C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\obj\Debug\Generic SQL Client.csproj.GenerateResource.Cache
 C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\obj\Debug\Generic SQL Client.exe
 C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\obj\Debug\Generic SQL Client.pdb
+C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\bin\Debug\EntityFramework.dll
+C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\bin\Debug\EntityFramework.xml
