@@ -1,0 +1,1 @@
+c:\users\matt\Repositories\Generic SQL Client\Generic SQL Client\bin\Debug\Generic SQL Client.exe.config
