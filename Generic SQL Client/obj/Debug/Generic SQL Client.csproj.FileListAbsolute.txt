@@ -1,1 +1,9 @@
 c:\users\matt\Repositories\Generic SQL Client\Generic SQL Client\bin\Debug\Generic SQL Client.exe.config
+C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\bin\Debug\Generic SQL Client.exe
+C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\bin\Debug\Generic SQL Client.pdb
+C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\obj\Debug\Generic SQL Client.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\obj\Debug\Generic_SQL_Client.GUI.resources
+C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\obj\Debug\Generic_SQL_Client.Properties.Resources.resources
+C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\obj\Debug\Generic SQL Client.csproj.GenerateResource.Cache
+C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\obj\Debug\Generic SQL Client.exe
+C:\Users\Matt\Repositories\Generic SQL Client\Generic SQL Client\obj\Debug\Generic SQL Client.pdb
